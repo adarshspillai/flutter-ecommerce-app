@@ -1,16 +1,22 @@
-# e_commerce_app
+# Flutter E-Commerce App
 
 A new Flutter project.
 
-## Getting Started
+## Description
 
-This project is a starting point for a Flutter application.
+A Flutter-based E-commerce mobile application that allows users to browse products, add items to the cart, and manage a wishlist. This app demonstrates state management using Bloc, API integration, and responsive UI design for multiple platforms (Android, iOS, Web, Windows, MacOS, Linux).
 
-A few resources to get you started if this is your first Flutter project:
+## Features
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Browse products and view details
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Add/remove items from the shopping cart
+
+Add/remove items from the wishlist
+
+Bloc state management for clean architecture
+
+Support for multiple platforms: Android, iOS, Web, Windows, MacOS, Linux
+
+Responsive UI with Flutter widgets
+
